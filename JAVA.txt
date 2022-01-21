@@ -1,0 +1,82 @@
+-------------------------------------------------------------
+JAVA - NETBEANS:
+-------------------------------------------------------------
+
+- CRIAR PASTA DO TIPO JAVA
+- CRIAR CLASS NO ÍCONE DO PACOTE
+
+- DIGITAR ABAIXO DE PUBLIC CLASS:
+
+public static void main(String[] args){
+        System.out.print("Olá, mundo!");
+    }
+}
+
+- A LINHA DE CÓDIGO System.out.print("Olá, mundo!");
+   IMPRIME O QUE VOCÊ ESCREVEU ENTRE ASPAS
+-------------------------------------------------------------
+
+ATALHOS:
+
+sout -> System.out.print
+psvm -> public static void main
+
+- A PRIMEIRA LETRA SENDO MAIÚSCULA INDICA QUE É UMA CLASSE 
+
+- A PRIMEIRA SENDO MINÚSCULA E AS OUTRAS PALAVRAS INICIAREM COM MAIÚSCULAS, PODE SER: ex: AlunosCursoEmVideo
+
+ATRIBUTO: nomeAluno
+
+VARIÁVEL: mediaPrimeiroBimestre
+
+MÉTODO: lancarNotaAluno
+
+- AS PALAVRAS SOMENTE COM LETRAS MINÚSCULAS SÓ PODEM SER O NOME DO PACOTE: ex: alunocursoemvideo
+
+- TODAS AS LETRAS SENDO MAIÚSCULAS SERÁ CONSIDERADA UMA CONSTANTE: ex: VALOR_DE_PI
+-------------------------------------------------------------
+
+SWING E JAVA FX:
+
+- A INSTRUÇÃO/COMANDO "IMPORT" É PARA IMPORTAR PACOTES NOVOS
+
+- A BIBLIOTECA SWING PERMITE CRIAR INTERFACES GRÁFICAS PARA AMBIENTES DE JANELAS
+
+- PARA IMPORTAR A BIBLIOTECA SWING DEVE-SE UTILIZAR O COMANDO import javax.swing;
+
+- DESMARCAR A OPÇÃO "CREATE MAIN CLASS" PARA O SWING
+
+- CLICAR EM "DEFAULT PACKAGE" E DEPOIS EM "NEW FILE"
+
+- SELECIONAR A OPÇÃO "SWING FORMS" E "JFRAME"
+
+- ADICIONAR UM LABEL E UM BOTÃO ARRASTANDO DA BARRA LATERAL
+
+- CLICANDO COM O BOTÃO DIREITO DO MOUSE EM CIMA DO LABEL OU DO BUTTON É POSSÍVEL EDITAR O NOME DA VARIÁVEL DE CADA UM
+
+- CLICANDO COM O BOTÃO DIREITO DO MOUSE NO BUTTON É POSSÍVEL DEFINIR UM EVENT PARA ELE EM ACTION E actionPerformed
+
+- ABAIXO DO MÉTODO private void btnClickActionPerformed DEVE-SE DIGITAR lblMensagem.setText("Olá, mundo!");
+
+- public class TelaSwing extends javax.swing.JFrame {
+	private javax.swing.JButton btnClick;
+	private javax.swing.JLabel lblMensagem;
+	private void btnClickActionPerformed(...) {
+	
+	}
+}
+ESSE EXTENDS É A HERANÇA
+O 3º PRIVATE É O CÓDIGO DO MÉTODO
+
+- NA ORIENTAÇÃO A OBJETOS (OO), ENCAPSULAMENTO É O NOME QUE SE DÁ PARA TORNAR COISAS PRIVADAS
+-------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------
