@@ -1,6 +1,6 @@
--------------------------------------------------------------
+-----------------------------------------------------
 JAVA - NETBEANS:
--------------------------------------------------------------
+-----------------------------------------------------
 
 - CRIAR PASTA DO TIPO JAVA
 - CRIAR CLASS NO ÍCONE DO PACOTE
@@ -14,8 +14,8 @@ public static void main(String[] args){
 
 - A LINHA DE CÓDIGO System.out.print("Olá, mundo!");
    IMPRIME O QUE VOCÊ ESCREVEU ENTRE ASPAS
--------------------------------------------------------------
-
+   
+-----------------------------------------------------
 ATALHOS:
 
 sout -> System.out.print
@@ -34,8 +34,8 @@ MÉTODO: lancarNotaAluno
 - AS PALAVRAS SOMENTE COM LETRAS MINÚSCULAS SÓ PODEM SER O NOME DO PACOTE: ex: alunocursoemvideo
 
 - TODAS AS LETRAS SENDO MAIÚSCULAS SERÁ CONSIDERADA UMA CONSTANTE: ex: VALOR_DE_PI
--------------------------------------------------------------
 
+-----------------------------------------------------
 SWING E JAVA FX:
 
 - A INSTRUÇÃO/COMANDO "IMPORT" É PARA IMPORTAR PACOTES NOVOS
@@ -69,7 +69,7 @@ ESSE EXTENDS É A HERANÇA
 O 3º PRIVATE É O CÓDIGO DO MÉTODO
 
 - NA ORIENTAÇÃO A OBJETOS (OO), ENCAPSULAMENTO É O NOME QUE SE DÁ PARA TORNAR COISAS PRIVADAS
--------------------------------------------------------------
+-----------------------------------------------------
 
 
 
